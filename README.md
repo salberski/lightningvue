@@ -1,4 +1,5 @@
 # lightningvue
+<<<<<<< HEAD
 
 > SLDS for vue.js
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+LightningVue
+>>>>>>> 4f0ff7dd8f4160b2a3c7de1833404fbb1972b825
